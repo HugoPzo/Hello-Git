@@ -8,3 +8,6 @@ print("Volvi con un reset")
 print("New Hello Git with changes!!!")
 
 print("Version 2 v3 ")
+
+
+print("Usamos stash")
